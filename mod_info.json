@@ -1,0 +1,8 @@
+{
+	"id":"old_brilliant", # internal id
+	"name":"Old Brilliant", # displayed to the player
+	"author":"Zero747",
+	"version":"0.1",
+	"description":"Adds the old brilliant from before the fighter bay was removed",
+	"gameVersion":"0.97"
+}
